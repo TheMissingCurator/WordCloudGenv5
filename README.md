@@ -1,8 +1,15 @@
 # WordCloudGenv5
 A word cloud gen I made for a research project 
 
+The program does make a settings.json file in your home dir, all it does is remeber if you left dark mode on and what exclusion list you last used!
+
+
+
 So like this program is kinda mid low key but its neat. Coded with help from your local friendly LLM Gemini! 
 (I vibe coded this, im sorry programming jesus)
+
+
+
 
 side notes:
 the exe takes forever, Im assuming its because its python. 
